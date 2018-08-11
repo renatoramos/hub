@@ -1,0 +1,16 @@
+*.class
+
+*.war
+*.ear
+*.iml
+.idea/
+target/
+dist/
+.classpath
+classes/
+.project
+.settings/
+bin/
+build/
+.gradle/
+

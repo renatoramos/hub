@@ -1,0 +1,2 @@
+rootProject.name = 'hub'
+include 'hub-processor','hub-api','hub-domain','hub-core'
