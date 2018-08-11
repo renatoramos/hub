@@ -28,3 +28,10 @@ Exemplo de chamada do socket: (telnet localhost 9000)
 Exemplo de chamada da api:
     
     curl http://localhost:8080/balance/5353669872708379
+
+
+Cartões que a aplicação inicia, já com saldo de 10000 :
+    
+    5418973351426930
+    5353669872708379
+    5205050805006365
