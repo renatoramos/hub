@@ -10,7 +10,7 @@ Ferramentas utilizadas:
 Aplicações 
     
 - hub-processor porta 9000
-- hub-api porta 808
+- hub-api porta 8080
     
 
 Para executar as aplicações: 
